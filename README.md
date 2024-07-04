@@ -7,3 +7,7 @@ venv\Scripts\activate
 # macOS/Linux:
 source venv/bin/activate
 ```
+## 安装依赖库：
+```python
+pip install -r requirements.txt
+```
